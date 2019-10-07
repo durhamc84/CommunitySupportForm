@@ -1,0 +1,39 @@
+﻿body {
+
+    
+}
+
+h1 {
+    border: solid;
+    border-color: saddlebrown;
+    text-align: center;
+    background-color:greenyellow;
+    border-radius: 25px;
+    
+
+}
+
+h3 {
+    text-align: center;
+}
+
+div {
+    margin: auto;
+    width: 50%;
+    text-align: center;    
+}
+
+/*#OrgLabel
+{
+    padding-left: 35%;
+}*/
+
+.welcome
+{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.width {
+    width: 200px;
+}
